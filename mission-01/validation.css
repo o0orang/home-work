@@ -1,0 +1,23 @@
+
+.HomeWork li:first-child {
+  list-style-type: none;
+  background: url("./icon2.png") no-repeat 5% 50% #ccc;
+  width: 250px;
+  border-radius: 34px;
+  margin: 10px;
+  padding: 10px 30px;
+
+
+ 
+}
+
+.HomeWork li:nth-child(2) {
+  list-style-type: none;
+  background-color: #ccc;
+  background: url("./icon2.png") no-repeat 5% 50% #ccc;
+  width: 250px;
+  border-radius: 34px;
+  margin: 10px;
+  padding: 10px 30px;
+ 
+}
