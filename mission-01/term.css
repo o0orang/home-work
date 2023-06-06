@@ -35,7 +35,7 @@
 
 .text02 { overflow: hidden;}
 
-.img01 { 
+.text02 dd { 
   float: left;
   list-style-type: none;
   margin-left:0;
@@ -60,7 +60,7 @@
    margin-left:0px; 
  }
  
- .img02 { 
+ .text04 dd { 
   float: right;
   clear: both;
   list-style-type: none;
