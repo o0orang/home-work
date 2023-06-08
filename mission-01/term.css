@@ -7,7 +7,13 @@
  border-radius: 5px;
 }
 
-.container h1 {
+.text01 dd { 
+  float: left;
+  clear: both;
+  margin-left:0;
+}
+
+.container span {
  width: 72px;
  height: 23px;
  font-weight: 700;
@@ -15,56 +21,45 @@
  line-height: 150%;
 }
 
-.text01 dt {
+.text02 dt {
  font-weight: 700;
  font-size: 14px;
  color: #296897;
- margin-left: 76px;
-
-
+ margin:0;
+ margin-right: 12px;
 }
 
-.text01 dd  { 
-
+.text02 dd  { 
   font-weight: 400;
   font-size: 14px;
   line-height: 150%;
-  margin-left: 76px;
- 
+  margin:0;
+  margin-right: 12px;
 }
 
-.text02 { overflow: hidden;}
 
-.text02 dd { 
-  float: left;
-  list-style-type: none;
-  margin-left:0;
-  margin-top:0;
+.text03 dd { 
+  float: right;
+  clear: both;
+  margin-left: 0;
+  margin-top:12px;
 }
 
-.text03 dt {
+
+.text04 dt {
   font-weight: 700;
   font-size: 14px;
   line-height: 150%;
   color: #296897;
   margin-right:143px;
-  margin-top: 20px;
+  margin-top:12px;
  }
  
- .text03 dd  { 
-   width: 142px;
-   height: 63px;
+ .text04 dd  { 
    font-weight: 400;
    font-size: 14px;
    line-height: 150%;
    margin-left:0px; 
  }
  
- .text04 dd { 
-  float: right;
-  clear: both;
-  list-style-type: none;
-  margin-right:0px;
-  margin-top: 0;
-}
 

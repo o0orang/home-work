@@ -1,0 +1,105 @@
+.container {
+padding: 12px;
+width: 244px;
+height: 161px;
+background: linear-gradient(90deg, #ED552F 0%, #E8852E 100%);
+box-shadow: 5px 5px 0px #AAAAAA;
+border-radius: 5px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFF00;
+}
+
+.container fieldset {
+  width: 220px;
+  height: 106px;
+  background: #FFFFFF;
+  border-radius: 5px;
+  border: 0;
+  margin-left: 0;
+  margin-right: 0;
+ 
+  
+}
+
+.idBox label {
+  display: inline-block;
+  width: 64px;
+
+}
+
+
+.idBox .name {
+  align-items: center;
+  width: 90px;
+  height: 24px;
+  border: 1px solid #CCCCCC;
+  border-radius: 5px;
+  margin-bottom: 4px;
+}
+
+
+.idBox .pword {
+  align-items: center;
+  width: 90px;
+  height: 24px;
+  border: 1px solid #CCCCCC;
+  border-radius: 5px;
+
+}
+
+.buttonFill {
+  display:inline-block;
+  height: 53px;
+  background: #ED552F;
+  position: relative;
+  left:170px;
+  bottom: 54px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  border:0;
+  margin-left: 2px;
+  
+}
+
+
+.formList ,hr {
+  position: relative;
+  bottom: 50px;
+  padding:0;
+
+
+}
+
+.formList a {
+  text-decoration: none;
+  color: #181818;
+  
+}
+
+
+ul li:first-child {
+  list-style-type: none;
+  font-size: 13px;
+  float: right;
+  clear: both;
+}
+
+ul li:nth-child(2) {
+  list-style-type: none;
+  font-size: 13px;
+  
+}
+
+
+/*
+.list a {
+  color: #181818;
+  text-decoration: none;
+}*/
+
+
