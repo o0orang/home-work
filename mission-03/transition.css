@@ -1,0 +1,44 @@
+h1{
+font-weight: 700;
+font-size: 15px;
+line-height: 150%;
+}
+
+span{
+  color:#ED552F
+}
+
+.bigBox {
+  width: 190px;
+  background: linear-gradient(180deg, #CCCCCC 0%, #EEEEEE 100%);
+  border: 1px solid #A3A3A3;
+  border-radius: 5px;
+  padding: 12px;
+}
+
+.miniBox{
+  font-size: 15px;
+  line-height: 160%;
+  height:30px;
+  overflow: hidden;
+  padding-top: 10px;
+  background: #FFFFFF;
+  border: 1px solid #A3A3A3;
+  border-radius: 5px;
+  padding-left: 24px;
+  list-style-type: none;
+  height: 29px;
+  transition: height 1s, 1s ease;
+
+
+}
+
+.miniBox a {  color:black;
+  text-decoration:none;}
+
+.miniBox:hover {
+  cursor: pointer;
+  height: 140px;
+  
+}
+
