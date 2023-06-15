@@ -22,7 +22,7 @@
 
 
 .splite{
-  background: url(./rank.png) no-repeat;
+  background: url(./rank1.png) no-repeat;
 
 }
 
@@ -46,7 +46,7 @@
 .site__list{
   list-style-type: none;
   padding:0;
-  margin: 8px 0 0 0;
+  margin: 8px 0 0 0; 
 }
 .list__number {
   display: inline-block;

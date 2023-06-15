@@ -1,7 +1,7 @@
 # 3차 과제 제출
 
 ## 결과
-![png](./image01.png)
+![png](./image1.png)
 
 ## 마크업 코드, 설명
 
@@ -23,7 +23,7 @@ div.site
   li.splite.splite4
    span.list__number
     a.site__link
-  a.site__more site__link
+  a.site__more site__link 
 ```
 
 ### css
